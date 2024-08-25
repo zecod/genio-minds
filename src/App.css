@@ -1,0 +1,78 @@
+@font-face {
+  font-family: "Apercu";
+  src: url("/fonts/apercu_regular_pro.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Apercu";
+  src: url("/fonts/apercu_regular_italic_pro.otf") format("opentype");
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Apercu";
+  src: url("/fonts/apercu_medium_pro.otf") format("opentype");
+  font-weight: 500; /* Adjust if necessary */
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Apercu";
+  src: url("/fonts/apercu_medium_italic_pro.otf") format("opentype");
+  font-weight: 500; /* Adjust if necessary */
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Apercu";
+  src: url("/fonts/apercu_bold_pro.otf") format("opentype");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Apercu";
+  src: url("/fonts/apercu_bold_italic_pro.otf") format("opentype");
+  font-weight: bold;
+  font-style: italic;
+}
+
+.font-regular {
+  font-family: "Apercu", sans-serif;
+  font-weight: normal;
+}
+
+.font-italic {
+  font-family: "Apercu", sans-serif;
+  font-style: italic;
+}
+
+.font-bold {
+  font-family: "Apercu", sans-serif;
+  font-weight: bold;
+}
+
+.font-bold-italic {
+  font-family: "Apercu", sans-serif;
+  font-weight: bold;
+  font-style: italic;
+}
+
+.pacifico-regular {
+  font-family: "Pacifico", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.custom-gradient {
+  background: linear-gradient(30deg, #be22ff 20%, #ff279c 50%, #ff981f 80%);
+}
+
+.gradient-text {
+  background: linear-gradient(30deg, #be22ff 20%, #ff279c 50%, #ff981f 80%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
