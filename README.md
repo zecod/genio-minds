@@ -2,14 +2,6 @@
 
 Welcome to **GenioMind**! This application is designed to help entrepreneurs and developers generate SaaS (Software as a Service) ideas and guide them step-by-step from conception to launch. Built with Vite and React TypeScript, our goal is to simplify the process of turning an idea into a fully functional and shippable product as quickly as possible.
 
-## Table of Contents
-
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Features
 
@@ -26,7 +18,7 @@ To get started with GenioMind, follow these steps:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/Code4-hub/genio-mind.git
+   git clone https://github.com/zecod/genio-minds.git
    cd genio-mind
    ```
 
