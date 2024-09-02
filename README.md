@@ -58,12 +58,6 @@ We welcome contributions from the community! To contribute:
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Contact
-
-If you have any questions, suggestions, or feedback, feel free to reach out:
-
-- **Email**: [your-email@example.com](mailto:armex684@gmail.com)
-
 
 ---
 
